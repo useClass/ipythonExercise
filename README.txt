@@ -7,3 +7,10 @@ pip install --upgrade ipython[all]
 
 2.更新Jupyter的快捷方式是：
 pip install --upgrade jupyter
+
+
+********安装是出现问题，from tornado.util unicode_type总是找不到，使用pip uninstall tornado将其卸载，
+再使用pip unindatall jupyter卸载。
+使用命令pip install tornado
+	pip insatall jupyter
+再次安装即可解决错误。
