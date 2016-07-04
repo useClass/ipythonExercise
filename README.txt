@@ -1,0 +1,7 @@
+首先需要安装pip
+
+1.可用于升级ipython的命令
+pip install --upgrade ipython[all]
+
+2.更新Jupyter的快捷方式是：
+pip install --upgrade jupyter
