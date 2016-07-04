@@ -1,4 +1,7 @@
 这是一个txt的readme，还可以是md的readme
+python官网为：https://www.python.org/
+需要安装python2.*，pandas
+
 
 首先需要安装pip，code中有安装文件夹
 
